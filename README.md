@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @OJMac789
-- 👀 I’m interested in volunteering for www.emotionsmatterbpd.org as a Board Member and ardent volunteer with lived experience in BPD. All things programming!! Commercinal Headshot Photography (www.oliversheadshotandportraitphotograhpy.wordpress.com) and how to improve my own website! 
-- 🌱 I’m currently learning a self-taugh learning prject for front-end developing, CSS, Javascript, and how to use Obsidian more effectively through my own understanding of dataviewjs.
-- 💞️ I’m looking to collaborate on anything. I will work for free, am an amazing assistant, loyal and extreamly willing to learn through serving my mentor ...
-- 📫 How to reach me E:ojandjess1@gmail.com, P or Txt: 1-519-546-8085, I live in Guelph, Ontario Canada! 🍁
+👋 Hi, I’m @OJMac789
+
+I am an easy going, dedicated and interactive programmer/pentester/ethical hacker who is looking to develop my skills by supporting the Github Community! I am currently a collaborator of Helm-Posframe for Emacs and am activly looking for another great project to support with my efforts in collobaration or as a maintainer.
+
+📫 How to reach me E:ojandjess1@gmail.com. I am from Ontario Canada! 🍁
 
 <!---
 OJMac789/OJMac789 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
